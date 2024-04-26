@@ -1,5 +1,5 @@
 {
-    "name": "ext-json/ext-json",
+    "name": "roosevelt/ext-json",
     "description": "simple composer",
     "type": "library",
     "license": "MIT",
