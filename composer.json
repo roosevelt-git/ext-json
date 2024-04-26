@@ -1,0 +1,19 @@
+{
+    "name": "roosevelt-git/ext-json",
+    "description": "simple composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RooseveltGit\\ExtJson\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "roosevelt-git",
+            "email": "github.roosevelt@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
